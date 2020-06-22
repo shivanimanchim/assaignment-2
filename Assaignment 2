@@ -1,0 +1,78 @@
+1.What are the data types in python?explain
+Ans.integer:Positive or negative whole numbers 
+            Are the integer data types 
+    Float:Any real number with a floating point
+        Represents in which a fractional component
+         Is denoted by a decimal symbol or
+         Sytific notation
+   Complexnumber:A number with a real and 
+               Imaginary component represented 
+                As x+y; x and y are floats and
+                J=-1
+   Boolen:Data with one of the two built in values
+          True or false are not valid boolens 
+          And python will thrown an error for them
+  String:A string value is a collection of one
+         Or more charecters put in single, double
+         Triple quotes
+  List:A list object is an ordered collection of
+      One or more data items not necessarily of
+      the same type put in square brackets
+  Triple:A tripled object is an ordered collection 
+         Of one or more  data items not necessary
+         Of the same types put in brackets.
+
+
+2.Briefly explain the history of python?
+Ans.Python was created by Guido van rossum in
+    1980 to 1990.He was a member of the national 
+    Research institute it was designed as a 
+    Response to the ABC programmer language was
+    that python had expectation handling and was
+    targeted for the ameoba operating system the
+    name python is named from the British TV 
+    Show monthly python in addiction to 
+    exception handling python included classes
+    lists and strings.
+
+
+3.Explain the operators in python?
+Ans.operators in python are:
+▪︎Arithmetic operator:addition,subtraction,
+                      multiplication,division
+                      modulus exponation
+▪︎Relational operator:<,>,<=,>=,==
+▪︎Assignment operator:+=,-=,/=,**=,//=
+▪︎Logical operator:and,or,not
+▪︎Membership operator:in,noting
+▪︎Identity operator:is,isn't
+▪︎Bitwise operator:Binary and(&),Binary XOR(A),
+                   ~,<<,>>
+
+
+4.Explain features of python?
+Ans.•Easy to code
+    •Free and open source
+    •Object oriented language
+    •High level language
+    •Extensible feature
+    •Python is portable language
+    •Python is integrated language
+    •Large standered library 
+    •Dynamically typed language
+
+
+5.Justify why python is interpreted language?
+Ans.unlike C\C++ etc.., python is an interpreted
+    object oriented programming language the
+    compiler translates the whole code in one-go
+    rather than line by line this is the reason 
+    why in c language all the errors are listed
+    during compilation only.
+
+
+
+
+
+
+    
